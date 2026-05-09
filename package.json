@@ -1,0 +1,12 @@
+{
+  "name": "impeccable-ui-kit",
+  "version": "0.1.0",
+  "description": "Local-first multi-framework UI kit MVP",
+  "type": "commonjs",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
